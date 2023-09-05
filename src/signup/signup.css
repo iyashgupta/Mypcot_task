@@ -1,0 +1,13 @@
+.signup{
+    border:1px solid black;
+    border-radius:10px;
+    margin:auto;
+    width:25%;
+    padding:40px 30px 50px 30px
+}
+.select_tag{
+    margin:20px 0px
+}
+.form{
+    margin:1.5rem auto
+}

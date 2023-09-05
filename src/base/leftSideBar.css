@@ -1,0 +1,29 @@
+.filtertext{
+    text-align: center;
+    font-size: 25px;
+    margin:10px auto;
+}
+.select_width{
+    width:55%;
+}
+.input{
+    width: 55%;
+    margin:10px auto !important
+}
+.left-bar-parent{
+    width: 20%;
+    padding:"20px 0px 100px 0px";
+    margin:"50px 0px"
+}
+.filterlabel{
+    font-size:1.3rem;
+    color:teal;
+    margin:20px 0px
+}
+.barParent{
+   text-align: center;
+    margin: 10px auto;;
+}
+.barParent input{
+    margin:0px auto ;
+}

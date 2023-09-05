@@ -1,0 +1,21 @@
+.rightbar{
+   padding:20px 20px;
+   width: 73%;
+}
+.rightbar .delete_btn{
+    color:white;
+    background-color:rgba(255, 0, 0, 0.674)
+}
+.update{
+   color:rgb(9, 200, 9) !important;
+   font-size: 1.1rem;
+}
+.update:hover{
+   text-decoration: underline;
+   cursor:pointer;
+}
+.post_btn{
+   padding:0rem 7rem .8rem 0rem;
+   display:flex;
+   justify-content: flex-end;
+}

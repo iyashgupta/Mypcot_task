@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "yash",
+      "designation": "software developer",
+      "Active": "false"
+    },
+    {
+      "id": 2,
+      "name": "Vikas",
+      "designation": "php developer",
+      "Active": "true"
+    },
+    {
+      "id": 3,
+      "name": "suyash",
+      "designation": "backend developer",
+      "Active": "true"
+    },
+    {
+      "id": 8,
+      "name": "chetanya",
+      "designation": "java develo",
+      "Active": "false"
+    },
+    {
+      "id": 9,
+      "name": "aman",
+      "designation": "shopify developer",
+      "Active": "true"
+    },
+    {
+      "name": "sheetal",
+      "designation": "new",
+      "Active": "true",
+      "id": 1693893392425
+    },
+    {
+      "name": "Yash Gupta",
+      "designation": "fronend",
+      "Active": "false",
+      "id": 1693894934740
+    }
+  ],
+  "All_user": [
+    {
+      "name": "Yash Gupta",
+      "password": "123123123123",
+      "gender": "",
+      "email": "yashgupta1997f@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Yash Gupta",
+      "password": "123123123123",
+      "gender": "",
+      "email": "yashgupta1997f@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Yash Gupta",
+      "password": "123123123123",
+      "gender": "",
+      "email": "yashgupta1997f@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Yash Gupta",
+      "password": "123123123123",
+      "gender": "",
+      "email": "yashgupta1997f@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Yash Gupta",
+      "password": "123123123123",
+      "gender": "",
+      "email": "yashgupta1997f@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "rupal",
+      "password": "3232323232",
+      "gender": "",
+      "email": "yashgupta1997f@gmail.com",
+      "id": 6
+    },
+    {
+      "useremail": "jadjiojadji@gmail.com",
+      "userpassword": "8989898989",
+      "id": 7
+    },
+    {
+      "name": "kalu",
+      "password": "123456789",
+      "gender": "",
+      "email": "vipalgupta1997f@gmail.com",
+      "id": 8
+    }
+  ]
+}

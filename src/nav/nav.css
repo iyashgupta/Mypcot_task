@@ -1,0 +1,35 @@
+.nav-container{
+    background-color: rgba(255, 255, 255, 0.1);
+   width:70vw;
+   margin:auto;
+   border-radius: 1.2vw ;
+}
+.btn{
+   border-radius: 14px;
+}
+img{
+   cursor:pointer
+}
+.Sign__up{
+   margin-left:4px ;
+   color:blue;
+   font-weight:bold;
+   border:2px solid rgba(0, 0, 255, 0.812);
+   transition: .7s;
+   border-radius: 14px !important;
+}
+.checking{
+   margin:auto 5px ;
+   border-radius: 14px !important;
+}
+.Sign__up:hover{
+   color:white;
+   background-color: rgba(0, 0, 255, 0.637);
+}
+.Login{
+   transition: .7s;
+}
+.Login:hover{
+  color:white;
+  background-color: black;
+}
